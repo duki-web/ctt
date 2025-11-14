@@ -1,4 +1,5 @@
-本机器人项目地址：  
-[GitHub 项目](https://github.com/iawooo/ctt)  
+使用方法：
 
-欢迎 fork，留下你的 star 再走吧！
+-【有事直接说，看到了会回复】
+
+当【你】给bot发消息，会被转发到【消息接收者】
